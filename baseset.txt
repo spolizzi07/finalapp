@@ -1,0 +1,139 @@
+Card Name: Alakazam
+Card Type: Stage 2
+Card Number: 1/102
+Card Set: Base Set
+
+Card Text: Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5000. LV. 42 #65
+
+Pokemon Type: Psychic
+Pokemon HP: 80
+Weakness: Psychic
+Resistance: None
+Retreat Cost: CCC
+
+First Attack/Ability: Pokemon Power: Damage Swap 
+First Attack Damage:None
+First Attack Cost: None
+First Attack Text: As often as you like during your turn (before you attack), you may move 1 damage counter from 1 of your Pokemon to another as often as long as you don't Knock Out that Pokemon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed.
+
+Second Attack/Ability: Confuse Ray
+Second Attack Damage: 30
+Second Attack Cost: PPP
+Second Attack Text: Flip a coin. If heads, the Defending Pokemon is now Confused.
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None
+
+Card Name: Blastoise 2/102
+Card Type: Stage 2
+Card Number: 2/102
+Card Set: Base Set
+
+Card Text: A brutal Pokemon with pressurized water jets on its shell. They are used for high speed tackles. LV.52 #9
+
+Pokemon Type: Water
+Pokemon HP: 100
+Weakness: Lightning
+Resistance: None
+Retreat Cost: CCC
+
+First Attack/Ability: Pokemon Power: Rain Dance
+First Attack Damage: None
+First Attack Cost: None
+First Attack Text: As often as you like during your turn (before your attack), you may attach 1 W Energy card to 1 of your W Pokemon. (This doesn't use up your Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.
+
+Second Attack/Ability: Hydro Pump
+Second Attack Damage: 40+
+Second Attack Cost: WWW
+Second Attack Text: Does 40 damage plus 10 more damage for each W Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra W Energy after the 2nd doesn't count.
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None
+
+Card Name: Chansey 3/102
+Card Type: Basic
+Card Number: 3/102
+Card Set: Base Set
+
+Card Text: A rare and elusive Pokemon that is said to bring happiness to those who manage to catch it. LV.55 #113
+
+Pokemon Type: Colorless
+Pokemon HP: 120
+Weakness: Fighting
+Resistance: Psychic
+Retreat Cost: C
+
+First Attack/Ability: Scrunch
+First Attack Damage: None
+First Attack Cost: CC
+First Attack Text: Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. (Any other effects of attacks still happen.)
+
+Second Attack/Ability: Double-edge
+Second Attack Damage: 80
+Second Attack Cost: CCCC
+Second Attack Text: Chansey does 80 damage to itself.
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None
+
+Card Name: Charizard 4/102
+Card Type: Stage 2
+Card Number: 4/102
+Card Set: Base Set
+
+Card Text: Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires. LV.76 #6
+
+Pokemon Type: Fire
+Pokemon HP: 120
+Weakness: Water
+Resistance: Fighting
+Retreat Cost: CCC
+
+First Attack/Ability: Pokemon Power: Energy Burn
+First Attack Damage: None
+First Attack Cost: None
+First Attack Text: As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into R Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.
+
+Second Attack/Ability: Fire Spin
+Second Attack Damage: 100
+Second Attack Cost: RRRR
+Second Attack Text: Discard 2 Energy cards attached to Charizard in order to use this attack.
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None
+
+Card Name: Clefairy 5/102
+Card Type: Basic
+Card Number: 5/102
+Card Set: Base Set
+
+Card Text: Its magical and cute appeal has many admirers. It is rare and found only in certain areas. LV.14 #35
+
+Pokemon Type: Colorless 
+Pokemon HP: 40
+Weakness: Fighting
+Resistance: Psychic
+Retreat Cost: C
+
+First Attack/Ability: Sing
+First Attack Damage: None
+First Attack Cost: C
+First Attack Text: Flip a coin. If heads, the Defending Pokemon is now Asleep.
+
+Second Attack/Ability: Metronome
+Second Attack Damage: None
+Second Attack Cost: CCC
+Second Attack Text: Choose 1 of the Defending Pokemon's attacks. Metronome copies that attack except for its Energy costs and anything else required  in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokemon is, Clefairy's type is still Colorless.)
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None

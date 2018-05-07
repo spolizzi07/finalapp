@@ -1,0 +1,307 @@
+Card Name: VenusaurEX 1/83
+Card Type: Basic
+Card Number: 1/83
+Card Set: Generations
+
+Card Text: Pokemon EX rule: When a Pokemon EX is knocked out, your opponent takes 2 prize cards.
+
+Pokemon Type: Grass
+Pokemon HP: 180
+Weakness: Fire
+Resistance: None
+Retreat Cost: CCCC
+
+First Attack/Ability: Frog Hop
+First Attack Damage: 40+
+First Attack Cost: GCC
+First Attack Text: Flip a coin. If heads, this attack does 40 more damage.
+
+Second Attack/Ability: Poison Impact
+Second Attack Damage: 80
+Second Attack Cost: GGCC
+Second Attack Text: Your opponent's Active Pokemon is now Asleep and Poisoned.
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None
+
+Card Name:Mega VenusaurEX 
+Card Type: Mega
+Card Number: 2/83
+Card Set: Generations
+
+Card Text: Pokemon EX rule: When a Pokemon EX is knocked out, your opponent takes 2 prize cards.
+
+Pokemon Type: Grass
+Pokemon HP: 230
+Weakness: Fire
+Resistance: None
+Retreat Cost: CCCC
+
+First Attack/Ability: Bloom Buster 
+First Attack Damage: 130
+First Attack Cost: GGCC
+First Attack Text: Flip a coin. If heads, this attack does 30 damaged to each of your opponent's Benched Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)
+
+Second Attack/Ability: 
+Second Attack Damage: 
+Second Attack Cost: 
+Second Attack Text: 
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Caterpie 
+Card Type: Basic
+Card Number: 3/83
+Card Set: Generations
+
+Card Text: For protection, it releases a horrible stench from the antennae on its head to drive away any enemies.
+
+Pokemon Type: Grass
+Pokemon HP: 40
+Weakness: Fire
+Resistance: None
+Retreat Cost: C
+
+First Attack/Ability: Adaptive Evolution
+First Attack Damage: None
+First Attack Cost: None
+First Attack Text:  This Pokemon can evolve during your first turn or the turn you play it.
+
+Second Attack/Ability: Bug Bite
+Second Attack Damage: 10
+Second Attack Cost: G
+Second Attack Text: None
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Metapod 
+Card Type: Stage 1
+Card Number: 4/83 
+Card Set: Generations
+
+Card Text: A steel-hard shell protects its tender body. It quickly endures hardships while awaiting evolution.
+
+Pokemon Type: Grass
+Pokemon HP: 70
+Weakness: Fire
+Resistance: None
+Retreat Cost: CC
+
+First Attack/Ability: Adaptive Evolution
+First Attack Damage: None 
+First Attack Cost: CC
+First Attack Text: This Pokemon can evolve during your first turn or the turn you play it.
+
+Second Attack/Ability: Harden 
+Second Attack Damage: None
+Second Attack Cost: CC
+Second Attack Text: During your opponent's next turn, if this Pokemon would be damaged by an attack, prevent that attack's damage done to this Pokemon if that damage is 60 or less.
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Butterfree
+Card Type: Stage 2
+Card Number: 5/83 
+Card Set: Generations
+
+Card Text: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.
+
+Pokemon Type: Grass
+Pokemon HP: 130
+Weakness: Electric
+Resistance: Fighting
+Retreat Cost: C
+
+First Attack/Ability: Quiver Dance
+First Attack Damage: None
+First Attack Cost: G
+First Attack Text: Search your deck for a basic Energy card and attach it to this Pokemon. Shuffle your deck afterward. If you attached Energy in this way, heal 40 damage from this Pokemon.
+
+Second Attack/Ability: Gust
+Second Attack Damage: 70
+Second Attack Cost: GCC
+Second Attack Text: None
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Paras
+Card Type: Basic
+Card Number: 6/83
+Card Set: Generations
+
+Card Text: Burrows under the ground to grow in tree roots. The mushrooms on its back absorb most of the nutrition.
+
+Pokemon Type: Grass
+Pokemon HP: 60
+Weakness: Fire
+Resistance: None
+Retreat Cost: C
+
+First Attack/Ability: Blot
+First Attack Damage: 10
+First Attack Cost: C
+First Attack Text: Heal 10 damage from this Pokemon.
+
+Second Attack/Ability: 
+Second Attack Damage: 
+Second Attack Cost: 
+Second Attack Text: 
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Parasect
+Card Type: Pokemon
+Card Number: 7/83
+Card Set: Generations
+
+Card Text: The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.
+
+Pokemon Type: Grass
+Pokemon HP: 100
+Weakness: Fire
+Resistance: None
+Retreat Cost: CC
+
+First Attack/Ability: Colorful Spores
+First Attack Damage: None
+First Attack Cost: C
+First Attack Text: Choose 3 of your Pokemon. For each of those Pokemon, search your deck for a different type of basic Energy card and attach it to that Pokemon. Shuffle your deck afterward.
+
+Second Attack/Ability: X-Scissor
+Second Attack Damage: 30+
+Second Attack Cost: GC
+Second Attack Text: Flip a coin. If heads, this attack does 30 more damage.
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Tangela
+Card Type: Pokemon
+Card Number: 8/83
+Card Set: Generations
+
+Card Text: It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.
+
+Pokemon Type: Grass
+Pokemon HP: 80
+Weakness: Fire
+Resistance: None
+Retreat Cost: CC
+
+First Attack/Ability: Absorb
+First Attack Damage: 20
+First Attack Cost: GC
+First Attack Text: Heal 20 damage from this Pokemon.
+
+Second Attack/Ability: Vine Whip
+Second Attack Damage: 30
+Second Attack Cost: GGC
+Second Attack Text: None
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Pinsir
+Card Type: Pokemon
+Card Number: 9/83
+Card Set: Generations
+
+Card Text: It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.
+
+Pokemon Type: Grass
+Pokemon HP: 100
+Weakness: Fire
+Resistance: None
+Retreat Cost: CC
+
+First Attack/Ability: Overhead Throw
+First Attack Damage: 30
+First Attack Cost: G
+First Attack Text: This attack does 20 damage to 1 of your Benched Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)
+
+Second Attack/Ability: Heavy Suplex
+Second Attack Damage: 40+
+Second Attack Cost: GCC
+Second Attack Text: This attack does 20 more damage for each C in your opponent's Active Pokemon's Retreat Cost
+
+Third Attack/Ability: 
+Third Attack Damage: 
+Third Attack Cost: 
+Third Attack Text: 
+
+Card Name: Pikachu 26/83
+Card Type: Basic
+Card Number: 26/83
+Card Set: Generations
+
+Card Text: It raises its tail to check its, surroundings. The tail is sometimes struck by lighting in this pose.
+
+Pokemon Type: Electric
+Pokemon HP: 60
+Weakness: Fighting
+Resistance: Metal
+Retreat Cost: C
+
+First Attack/Ability: Nuzzle
+First Attack Damage: None
+First Attack Cost: C
+First Attack Text: Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.
+
+Second Attack/Ability: Quick Attack
+Second Attack Damage: 20+
+Second Attack Cost: CC
+Second Attack Text: Flip a coin. If heads, this attack does 10 more damage.
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None
+
+Card Name: Raichu 27/83
+Card Type: Stage 2
+Card Number: 27/83
+Card Set: Generations
+
+Card Text: When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.
+
+Pokemon Type: Electric
+Pokemon HP: 90
+Weakness: Fighting
+Resistance: Metal
+Retreat Cost: None
+
+First Attack/Ability: Circle Circuit
+First Attack Damage: 20x
+First Attack Cost: CC
+First Attack Text: This attack does 20 damage times the number of your Benched Pokemon.
+
+Second Attack/Ability: Thunderbolt
+Second Attack Damage: 100
+Second Attack Cost: LLC
+Second Attack Text: Discard all Energy attached to this Pokemon
+
+Third Attack/Ability: None 
+Third Attack Damage: None
+Third Attack Cost: None
+Third Attack Text: None
